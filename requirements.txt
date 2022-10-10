@@ -1,0 +1,4 @@
+py-cord
+dnspython
+PyNaCl
+async-timeout
